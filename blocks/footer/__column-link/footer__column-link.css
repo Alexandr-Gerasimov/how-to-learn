@@ -2,5 +2,9 @@
   color: white;
   text-decoration: none;
   margin-bottom: 5em;
+}
 
+.footer__column-link:hover {
+  opacity: 50%;
+  transition:initial;
 }
