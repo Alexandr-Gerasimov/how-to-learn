@@ -1,7 +1,8 @@
 .footer__column-link {
   color: white;
   text-decoration: none;
-  margin-bottom: 5em;
+  display: block;
+  margin-bottom: 10px;
 }
 
 .footer__column-link:hover {
